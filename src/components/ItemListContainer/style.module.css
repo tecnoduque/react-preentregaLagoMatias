@@ -1,0 +1,9 @@
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 10%;
+    height: 100%;
+    background-color: rgb(221, 221, 221);
+}

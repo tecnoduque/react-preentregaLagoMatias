@@ -1,0 +1,27 @@
+.contenedor-navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 4rem;
+    background-color: rgb(255, 255, 255);
+}
+
+.contenedor-logo img{
+    width: 5em;
+}
+
+.contenedor-menu{
+    display: flex;
+    align-items: center;
+    gap:2em;
+
+}
+
+.contenedor-menu ul{
+    display: flex;
+    align-items:flex-start;
+    justify-content: space-around;
+    gap:2em;
+    list-style: none;
+
+}
